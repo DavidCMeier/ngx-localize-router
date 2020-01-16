@@ -1,6 +1,6 @@
 {
-  "name": "localize-router",
-  "version": "2.0.0-RC.3",
+  "name": "ngx-localize-router",
+  "version": "2.0.0-RC.4",
   "description": "An implementation of routes localization for Angular",
   "scripts": {
     "test": "karma start",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Greentube/localize-router.git"
+    "url": "https://github.com/DavidCMeier/ngx-localize-router"
   },
   "keywords": [
     "angular",
@@ -25,12 +25,12 @@
   "author": "Miroslav Jonas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Greentube/localize-router/issues"
+    "url": "https://github.com/DavidCMeier/ngx-localize-router/issues"
   },
-  "main": "bundles/localize-router.umd.js",
+  "main": "bundles/ngx-localize-router.umd.js",
   "module": "index.js",
   "typings": "index.d.ts",
-  "homepage": "https://github.com/Greentube/localize-router",
+  "homepage": "https://github.com/DavidCMeier/ngx-localize-router",
   "peerDependencies": {
     "@angular/common": ">=6.0.0",
     "@angular/core": ">=6.0.0",
